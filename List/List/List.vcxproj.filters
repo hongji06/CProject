@@ -15,21 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="ReadMe.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="stdafx.h">
-      <Filter>標頭檔</Filter>
-    </ClInclude>
-    <ClInclude Include="targetver.h">
+    <ClInclude Include="E:\project\DataStruct\MyList\MyList\MyList\my_list.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
+    <ClCompile Include="E:\project\DataStruct\MyList\MyList\MyList\my_list.c">
       <Filter>原始程式檔</Filter>
     </ClCompile>
-    <ClCompile Include="HelloTest.cpp">
+    <ClCompile Include="E:\project\DataStruct\MyList\MyList\MyList\MyListTest.c">
       <Filter>原始程式檔</Filter>
     </ClCompile>
   </ItemGroup>
