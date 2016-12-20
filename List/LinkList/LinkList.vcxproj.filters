@@ -15,16 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="E:\project\DataStruct\MyList\MyList\MyList\seq_list.c">
-      <Filter>原始程式檔</Filter>
-    </ClCompile>
-    <ClCompile Include="E:\project\DataStruct\MyList\MyList\MyList\SeqListTest.c">
-      <Filter>原始程式檔</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="E:\project\DataStruct\MyList\MyList\MyList\seq_list.h">
+    <ClInclude Include="LinkList.h">
       <Filter>標頭檔</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="LinkListTest.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkList.c">
+      <Filter>原始程式檔</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
